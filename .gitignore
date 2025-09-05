@@ -1,0 +1,93 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Common IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.sln
+*.suo
+*.user
+*.bak
+*.pydevproject
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# Build artifacts and compiled code
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.o
+*.a
+*.out
+*.exe
+*.dll
+*.so
+*.obj
+bin/
+out/
+target/
+build/
+temp/
+release/
+debug/
+
+# Python
+__pycache__/
+*.py[co]
+*.pyd
+*.so
+.env
+venv/
+lib/
+site-packages/
+dist/
+build/
+*.egg-info/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# C/C++
+*.out
+*.o
+*.a
+*.lo
+*.la
+*.so
+*.s
+*.swp
+*.core
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Java
+*.log
+*.lock
+*.properties
+*.xml
+*.iml
+.classpath
+.project
+.settings/
+target/
+build/
+
+# Web Development
+node_modules/
+dist/
+build/
